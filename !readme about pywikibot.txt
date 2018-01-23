@@ -1,0 +1,2 @@
+on stackoverflow: https://stackoverflow.com/questions/34411896/how-to-get-full-wikipedia-revision-history-list-from-some-article
+docs: https://doc.wikimedia.org/pywikibot/api_ref/pywikibot.html#module-pywikibot.page
