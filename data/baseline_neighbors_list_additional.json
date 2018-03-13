@@ -1,0 +1,523 @@
+{
+    "Michael_Boehnke": [], 
+    "Ruslan_Medzhitov": [], 
+    "Bernhard_Keimer": [], 
+    "Liao_Shijun": [
+        "Applied mathematics", 
+        "Homotopy analysis method", 
+        "Nonlinear dynamics", 
+        "Fluid mechanics"
+    ], 
+    "G%C3%A9rard_F%C3%A9rey": [
+        "Crystal chemistry", 
+        "Fluorides"
+    ], 
+    "Pan_Jianwei": [
+        "Quantum teleportation", 
+        "Quantum physics", 
+        "Quantum entanglement"
+    ], 
+    "Claire_Berger": [
+        "Graphene"
+    ], 
+    "Daniel_Rios": [], 
+    "Dennis_P._Curran": [
+        "Organic chemistry", 
+        "Cefuzonam", 
+        "Camptothecin", 
+        "Atom economy", 
+        "Radical cyclization", 
+        "Organic synthesis", 
+        "Kharasch addition", 
+        "Radical (chemistry)", 
+        "Cascade reaction", 
+        "Chemistry", 
+        "Fluorous chemistry"
+    ], 
+    "Nicholas_C._Handy": [
+        "Quantum chemistry", 
+        "Variational method (quantum mechanics)", 
+        "Density functional theory", 
+        "Hamiltonian (quantum mechanics)", 
+        "Normal mode", 
+        "Energy level", 
+        "Slater determinant", 
+        "Theoretical chemistry", 
+        "Open shell", 
+        "Spectroscopy", 
+        "Hartree\u2013Fock", 
+        "Quantum Chemistry", 
+        "Anharmonic", 
+        "Full configuration interaction", 
+        "Molecular orbital", 
+        "M\u00f8ller\u2013Plesset", 
+        "Reaction coordinate", 
+        "Physical chemistry"
+    ], 
+    "K%C3%A1ri_Stef%C3%A1nsson": [
+        "Neurosciences", 
+        "Genetics", 
+        "Genealogy", 
+        "Neurology", 
+        "Neurologist", 
+        "Neuropathology", 
+        "Multiple sclerosis"
+    ], 
+    "Peter_Ozsv%C3%A1th": [
+        "Heegaard Floer homology", 
+        "Mathematics", 
+        "3-manifold", 
+        "Donaldson theory", 
+        "Homology theory"
+    ], 
+    "Marc_A._Kastner": [
+        "Single electron transistor"
+    ], 
+    "Charles_M._Lieber": [
+        "Chemistry", 
+        "Molecular electronics", 
+        "Nanoscience", 
+        "Scanning tunneling microscope", 
+        "Nanowire", 
+        "Nanoparticle", 
+        "Nanotechnology", 
+        "Applied physics", 
+        "Self-assembled monolayer"
+    ], 
+    "Fran%C3%A7ois_Diederich": [
+        "Open-chain compound", 
+        "Kekulene", 
+        "Chirality", 
+        "Enzyme inhibitor", 
+        "Allene", 
+        "Shigellosis", 
+        "Electron acceptor", 
+        "African trypanosomiasis", 
+        "Malaria", 
+        "Drug design", 
+        "Medicinal chemistry", 
+        "Receptor (biochemistry)", 
+        "Carbon", 
+        "Alkyne", 
+        "Isoprenoid", 
+        "Organic chemistry", 
+        "Optoelectronics", 
+        "Charge-transfer complex", 
+        "Non-mevalonate pathway", 
+        "Plasmepsin", 
+        "Chemistry", 
+        "Organic Chemistry", 
+        "Trypanothione", 
+        "Macrocycle", 
+        "Molecular recognition", 
+        "Macroscopic scale"
+    ], 
+    "Joan_Massagu%C3%A9_Sol%C3%A9": [
+        "TGF\u03b2", 
+        "Metastasis", 
+        "Stem cells", 
+        "Cancer metastasis"
+    ], 
+    "Horst_St%C3%B6cker": [
+        "Astrophysics", 
+        "Acatech"
+    ], 
+    "Rodney_J._Bartlett": [
+        "Theoretical Chemistry", 
+        "Feynman diagrams", 
+        "Perturbation theory", 
+        "Coupled cluster"
+    ], 
+    "Bengt_R._Holmstr%C3%B6m": [
+        "Operations Research", 
+        "Finland-Swedes"
+    ], 
+    "Jean_Fr%C3%A9chet": [
+        "Polymer chemistry", 
+        "Chemistry", 
+        "Dendrimers", 
+        "Molecular self-assembly", 
+        "Organic synthesis", 
+        "Nanoscience", 
+        "Nanotechnology", 
+        "Polymer science", 
+        "Macromolecule", 
+        "Microfluidics", 
+        "Patents", 
+        "Photolithography"
+    ], 
+    "Stephen_J._Lippard": [
+        "Enzymes", 
+        "Chemistry", 
+        "Hemerythrin", 
+        "Methane monooxygenase", 
+        "Intercalation (chemistry)"
+    ], 
+    "Keith_Usherwood_Ingold": [
+        "Radical (chemistry)", 
+        "Chemical synthesis", 
+        "Antioxidant"
+    ], 
+    "Kun-Liang_Guan": [], 
+    "Michael_L._Tushman": [
+        "Disruptive innovation", 
+        "Organizational design"
+    ], 
+    "Younan_Xia": [], 
+    "Tomas_H%C3%B6kfelt": [
+        "Neurotransmitters", 
+        "Anorexia nervosa", 
+        "Histology", 
+        "Monoamine neurotransmitter", 
+        "Neuroscience", 
+        "Neuropeptide"
+    ], 
+    "Michael_F._Lappert": [
+        "Inorganic chemist", 
+        "Metal amido complexes", 
+        "Organometallic complex"
+    ], 
+    "Axel_D._Becke": [
+        "Electron localization function", 
+        "Density functional theory"
+    ], 
+    "Ivan_K._Schuller": [
+        "Condensed-matter physics", 
+        "Magnetism", 
+        "Superlattice", 
+        "Superconductivity"
+    ], 
+    "Achim_M%C3%BCller": [
+        "Molecule-based magnets", 
+        "Oxygen", 
+        "Hydrophobic effect", 
+        "Polyoxometalate", 
+        "Nanocapsules", 
+        "Sphere", 
+        "Nanomaterials", 
+        "Molecules", 
+        "Atom", 
+        "Ion channels", 
+        "Chemistry", 
+        "Molybdenum blue"
+    ], 
+    "Andrew_H._Van_de_Ven": [
+        "Organizational behavior", 
+        "Nominal Group Technique", 
+        "Longitudinal study", 
+        "Early childhood", 
+        "Innovation"
+    ], 
+    "Stephen_L._Buchwald": [
+        "Organic chemistry", 
+        "Catalysis", 
+        "Organometallic chemistry", 
+        "Buchwald-Hartwig amination"
+    ], 
+    "Andrew_B_Bernard": [
+        "International economics"
+    ], 
+    "Joann_E._Manson": [
+        "Biomarker (medicine)", 
+        "Endocrinology", 
+        "Antioxidant", 
+        "Vitamin D and Omega-3 Trial", 
+        "Omega-3 fatty acid", 
+        "Preventive medicine", 
+        "Women's Health", 
+        "Women's Health Initiative", 
+        "Vitamin D", 
+        "Diabetes mellitus", 
+        "Breast cancer", 
+        "Metabolism"
+    ], 
+    "Paul_Ridker": [
+        "JUPITER trial"
+    ], 
+    "%C5%BDeljko_Reiner": [], 
+    "Juan_Mart%C3%ADn_Maldacena": [
+        "Quantum entanglement", 
+        "Anti-de Sitter space", 
+        "Wormhole", 
+        "AdS/CFT correspondence", 
+        "Holographic principle", 
+        "Firewall (physics)", 
+        "Conformal field theory", 
+        "String theory", 
+        "AdS/CFT"
+    ], 
+    "Gon%C3%A7alo_Abecasis": [
+        "1000 Genomes Project", 
+        "Biostatistics", 
+        "Human genetics", 
+        "Computational biology", 
+        "Bioinformatics", 
+        "List of Intelligent Systems for Molecular Biology keynote speakers", 
+        "Intelligent Systems for Molecular Biology"
+    ], 
+    "Sharon_Ann_Hunt": [], 
+    "Paul_Volberding": [], 
+    "C._N._R._Rao": [
+        "Technophobia", 
+        "Materials science", 
+        "Solid-state chemistry", 
+        "Superconductivity", 
+        "Hindu", 
+        "Semiconductor", 
+        "Chemical engineering", 
+        "Transition metal oxide", 
+        "Chemistry", 
+        "Hindu literature"
+    ], 
+    "Hyeon_Taeghwan": [
+        "Materials science", 
+        "Mesoporous silica", 
+        "Materials Research Society", 
+        "Magnetite", 
+        "MRI", 
+        "Nanoparticles", 
+        "Nanocrystals", 
+        "Nanotechnology", 
+        "Chemistry", 
+        "Transition metals", 
+        "Nanoscale"
+    ], 
+    "Robert_Lusch": [], 
+    "Olivier_Blanchard": [
+        "Macroeconomics", 
+        "Economics", 
+        "Aggregate demand", 
+        "Monopolistic competition", 
+        "List of IMF Economic Counsellors", 
+        "World Economic Outlook"
+    ], 
+    "Jean-Luc_Br%C3%A9das": [
+        "Photonics", 
+        "Electronics", 
+        "NFWO"
+    ], 
+    "%C4%90%C3%A0m_Thanh_S%C6%A1n": [
+        "Many-body physics", 
+        "Quantum chromodynamics", 
+        "String theory"
+    ], 
+    "Kim_Kimoon": [
+        "Supramolecular chemistry", 
+        "Chiral catalyst", 
+        "Fullerene", 
+        "Cucurbituril", 
+        "Self-assembly", 
+        "Chemistry", 
+        "Catalysis"
+    ], 
+    "Robert_H._Crabtree": [
+        "Crabtree's catalyst", 
+        "Organometallic chemistry"
+    ], 
+    "Ian_F._Akyildiz": [
+        "SIGMOBILE", 
+        "IEEE Communications Society", 
+        "Nanonetwork", 
+        "International Conference on Communications", 
+        "Computer Engineering", 
+        "Cognitive Radio Networks", 
+        "Graphene antenna", 
+        "Electrical and Computer Engineering", 
+        "Wireless networking", 
+        "Wireless Sensor Networks"
+    ], 
+    "Jean-Michel_Sav%C3%A9ant": [
+        "Proton coupled electron transfer", 
+        "Reaction step", 
+        "Electrochemistry"
+    ], 
+    "Michael_I._Jordan": [
+        "Bayesian network", 
+        "Recurrent neural networks", 
+        "ICML", 
+        "Machine learning", 
+        "Variational Bayes", 
+        "Expectation-maximization algorithm", 
+        "Approximate inference", 
+        "Latent Dirichlet allocation"
+    ], 
+    "Luis_Oro": [], 
+    "G%C3%A9rald_Bastard": [
+        "Semiconductor", 
+        "Quantum well", 
+        "Heterostructure", 
+        "Superlattice", 
+        "Quantum-confined Stark effect"
+    ], 
+    "G%C3%A1bor_A._Somorjai": [
+        "Platinum", 
+        "Atomic force microscope", 
+        "Sum Frequency Generation Spectroscopy", 
+        "Scanning tunnelling microscope", 
+        "Naphtha", 
+        "Catalyst", 
+        "Nanotechnology", 
+        "Surface chemistry", 
+        "Catalysis", 
+        "Low-energy electron diffraction"
+    ], 
+    "Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si": [
+        "World Wide Web", 
+        "Scale-free network", 
+        "Chaos theory", 
+        "Matching (graph theory)", 
+        "Barab\u00e1si\u2013Albert model", 
+        "Human dynamics", 
+        "Protein\u2013protein interaction", 
+        "Control theory", 
+        "Network medicine", 
+        "Network science", 
+        "Physics olympiad", 
+        "Scale-free networks", 
+        "Observability", 
+        "Preferential attachment", 
+        "Physics", 
+        "Metabolic networks", 
+        "Network theory"
+    ], 
+    "Thomas_J.R._Hughes": [
+        "Computational mechanics", 
+        "X-ray computed tomography", 
+        "Finite element method", 
+        "MRI"
+    ], 
+    "Jose_Baselga": [], 
+    "Julian_Birkinshaw": [], 
+    "Daron_Acemo%C4%9Flu": [
+        "New institutional economics", 
+        "Presidential Culture and Arts Grand Awards", 
+        "Marijuana", 
+        "Economic growth", 
+        "Political economy", 
+        "EconTalk"
+    ], 
+    "Robert_J._Birgeneau": [], 
+    "Henri_Berestycki": [], 
+    "Elias_James_Corey": [
+        "Corey-Seebach reaction", 
+        "Corey-Itsuno reduction", 
+        "Alcohol", 
+        "Miroestrol", 
+        "Total synthesis", 
+        "Organic synthesis", 
+        "Imine", 
+        "Prostaglandin", 
+        "Johnson-Corey-Chaykovsky reaction", 
+        "Cyclopropane", 
+        "Aldehyde", 
+        "Corey\u2013Kim oxidation", 
+        "Natural product", 
+        "Lactone", 
+        "Chloride", 
+        "Ethers", 
+        "Wittig reaction", 
+        "Electrophile", 
+        "Triethylamine", 
+        "Alkene", 
+        "Chromatography", 
+        "CBS catalyst", 
+        "Proline", 
+        "Ylide", 
+        "N-butyllithium", 
+        "Catalyst", 
+        "Sodium acetate", 
+        "Ginkgolide", 
+        "Nucleophile", 
+        "Enone", 
+        "Organic chemistry", 
+        "Salinosporamide A", 
+        "Functional group", 
+        "Anion", 
+        "Protecting group", 
+        "Oxygen", 
+        "Zearalenone", 
+        "Corey-Winter Olefination", 
+        "Lactacystin", 
+        "Alkyne", 
+        "Silicon", 
+        "Triphenylphosphine", 
+        "Ketone", 
+        "Woodward\u2013Hoffmann rules", 
+        "Cholesterol", 
+        "Diels-Alder reaction", 
+        "Fluoride", 
+        "Aziridine", 
+        "Benzene", 
+        "Epoxide", 
+        "Carbonyl", 
+        "Chromium", 
+        "Retrosynthetic analysis", 
+        "Longifolene", 
+        "Pyridinium chlorochromate", 
+        "Umpolung", 
+        "Ecteinascidin 743", 
+        "Dithiane", 
+        "Ether"
+    ], 
+    "John_A._List": [
+        "Environmental economics", 
+        "Information cascades", 
+        "Prospect theory", 
+        "Finance", 
+        "Social preferences", 
+        "Statistical discrimination (economics)", 
+        "Economics", 
+        "Public goods", 
+        "Equity premium puzzle", 
+        "Social pressure", 
+        "Auctions", 
+        "Matrilineal", 
+        "Endowment effect", 
+        "Contingent valuation", 
+        "Field experiments", 
+        "Yrj\u00f6 Jahnsson Foundation"
+    ], 
+    "Edward_R._Dougherty": [
+        "Mathematics", 
+        "Electrical engineer", 
+        "Bioinformatics", 
+        "Electrical Engineering"
+    ], 
+    "Yang_Huanming": [
+        "Evolution", 
+        "Bioethics", 
+        "International HapMap Consortium", 
+        "Cloning", 
+        "Gene", 
+        "Genome"
+    ], 
+    "Chen_Guanrong": [
+        "Electrical engineering", 
+        "Multiscroll attractor"
+    ], 
+    "Bruce_D._Walker": [], 
+    "Stuart_A._Rice": [
+        "Noble gas", 
+        "Coherent control", 
+        "Exciton", 
+        "Reflectivity", 
+        "Liquid metal", 
+        "Lennard-Jones potential", 
+        "Freezing", 
+        "Water", 
+        "Ion", 
+        "Tuberculosis", 
+        "Atom", 
+        "Physical chemistry", 
+        "Electrical conductivity", 
+        "DNA", 
+        "Condensed matter physics", 
+        "Liquid", 
+        "Colloid", 
+        "Theoretical chemistry", 
+        "Chemistry", 
+        "Methane", 
+        "Ellipsometry", 
+        "Quantum chaos"
+    ]
+}
