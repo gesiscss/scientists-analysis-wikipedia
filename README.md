@@ -25,7 +25,7 @@ Supervised by: [Claudia Wagner]( http://www.claudiawagner.info ), [Fariba Karimi
 ### How to cite
 
 Claudia Wagner, **Olga Zagovora**, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 2018 ACM on Web Science Conference (WebSci '18). ACM, New York, NY, USA, 83-92. DOI: https://doi.org/10.1145/3201064.3201097
-[Download preprint](https://arxiv.org/abs/1706.03848) 
+[Download preprint]() 
 
 ## Contact
 
