@@ -34,7 +34,7 @@ Claudia Wagner, **Olga Zagovora**, Tatiana Sennikova, and Fariba Karimi. 2018. C
 
 ## Acknowledgments
 
-This work is part of the DFG-funded research project ** *metrics** (project number: 314727790). Further information on the project can be found at [https://metrics-project.net] ( https://metrics-project.net )
+This work is part of the DFG-funded research project ** *metrics** (project number: 314727790). Further information on the project can be found at https://metrics-project.net
 
 
 ## License
